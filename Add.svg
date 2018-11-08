@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 24 24">
   <path 
-  fill="none" 
+  fill="none"
   stroke="#757575"
   stroke-width="1.5" 
-  d="M11.969 5.5v13-13zM5.469 12h13-13z"/>
+  d="M12 5.75v12.5-12.5zM5.75
+  12h12.5-12.5z"/>
 </svg>

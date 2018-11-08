@@ -1,19 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 24 24">
   <path 
-  id="Search"
   fill="none" 
   stroke="#757575" 
-  stroke-width="1.5"
-  d="M5.257 5.257c2.342-2.341 6.144-2.341 8.486 0 2.341 2.342 
-  2.341 6.144 0 8.486-2.342 2.341-6.144 2.341-8.486 
-  0-2.341-2.342-2.341-6.144 0-8.486zM13.743 13.743L19.5 19.5"/>
-  
-  <path 
-  id="Zoom"
-  visibility="hidden"
-  fill="none" 
-  stroke="#757575" 
-  stroke-width="1.5"
-  d="M9.5 7.5v4-4z
-  M7.5 9.5h4-4z"/>
+  stroke-width="1.5" 
+  d="M5.434 5.434c2.244-2.244 5.888-2.244 8.132 0 
+  2.244 2.244 2.244 5.888 0 8.132-2.244 2.244-5.888 
+  2.244-8.132 0-2.244-2.244-2.244-5.888 0-8.132zM13.566 
+  13.566l5.684 5.684"/>
 </svg>

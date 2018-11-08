@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path
+      fill="none"
+      stroke="#757575"
+      stroke-width="1.5"
+      d="M20.25 5.75c0-1.105-.895-2-2-2H5.75c-1.105 0-2
+  .895-2 2v12.5c0 1.105.895 2 2 2h12.5c1.105
+  0 2-.895 2-2V5.75z M4.5 18.547c1.746-1.959
+  4.457-3.219 7.5-3.219s5.754 1.26 7.5 3.219M10.232
+  7.732c.976-.975 2.56-.975 3.536 0 .975.976.975
+  2.56 0 3.536-.976.975-2.56.975-3.536 0-.975-.976-.975-2.56
+  0-3.536z"/>
+</svg>
