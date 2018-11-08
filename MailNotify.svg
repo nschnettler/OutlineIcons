@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path 
+  fill="none" 
+  stroke="#757575" 
+  stroke-linecap="round" 
+  stroke-linejoin="round" 
+  stroke-width=".8"
+  d="M2.5 4.709l9.5 8.396 9.5-8.396
+  M2.5 4.709v14.582c0 1.215.994 2.209 2.209 2.209h14.582c1.215 0 
+  2.209-.994 2.209-2.209V4.709c0-1.215-.994-2.209-2.209-2.209H4.709C3.494 2.5 2.5 3.494 2.5 4.709z"/>
+</svg>

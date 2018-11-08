@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#757575;stroke-width:0.8;stroke-miterlimit:10;}
-</style>
-<path class="st0" d="M14.9,12c0,1.6-1.2,2.9-2.9,2.9S9.1,13.6,9.1,12s1.2-2.9,2.9-2.9S14.9,10.4,14.9,12z M16.4,16.3
-	c1.2-1.2,1.8-2.7,1.8-4.4c0-3.5-2.8-6.2-6.2-6.2s-6.2,2.8-6.2,6.2c0,1.7,0.7,3.3,1.8,4.4 M18.8,18.8c1.7-1.7,2.8-4.1,2.8-6.8
-	c0-5.3-4.3-9.6-9.6-9.6S2.4,6.7,2.4,12c0,2.7,1.1,5.1,2.8,6.8"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path 
+  fill="none" 
+  stroke="#757575" 
+  stroke-width=".8"
+  d="M5.889 14.389c0-3.373 2.738-6.111 6.111-6.111 3.373 0 6.111 2.738 6.111 6.111
+  M 12 12.167 C 13.2271767141 12.167 14.222 13.1618232859 14.222 14.389 C 14.222 15.6161767141 13.2271767141 16.611 12 16.611 C 10.7728232859 16.611 9.778 15.6161767141 9.778 14.389 C 9.778 13.1618232859 10.7728232859 12.167 12 12.167 Z
+  M2 14.389c0-5.519 4.481-10 10-10s10 4.481 10 10"/>
 </svg>
