@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#757575;stroke-width:0.8;stroke-miterlimit:10;}
-</style>
-<path class="st0" d="M13.3,14.5H6.9 M9.7,11.8l-3,2.7l2.9,2.7 M17.1,9.5h-6.4 M14.4,12.2l2.9-2.7l-3-2.7 M21.6,12
-	c0,5.3-4.3,9.6-9.6,9.6S2.4,17.3,2.4,12S6.7,2.4,12,2.4S21.6,6.7,21.6,12z"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path 
+  fill="none"
+  stroke="#757575"
+  stroke-width="1.5"
+  d="M12.25 15H2.5 M9.487
+  12.24l2.763 2.752-2.742 2.794
+  M11.725 9h9.75
+  M14.488 6.24l-2.763 2.752 
+  2.742 2.794"/>
 </svg>

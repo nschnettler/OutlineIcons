@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#757575;stroke-width:0.8;stroke-miterlimit:10;}
-</style>
-<path class="st0" d="M7.9,2.5v8.4c0,0.2-0.1,0.4-0.2,0.5L6,13.1c-0.1,0.1-0.2,0.3-0.2,0.5v1c0,0.4,0.3,0.7,0.7,0.7h10.9
-	c0.4,0,0.7-0.3,0.7-0.7v-1c0-0.2-0.1-0.4-0.2-0.5l-1.6-1.6c-0.1-0.1-0.2-0.3-0.2-0.5V2.5 M12,21.5v-6.2 M5.8,2.5h12.3"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path 
+  id="Pin"
+  fill="none"
+  stroke="#757575" 
+  stroke-width="1.5" 
+  d="M8.113 3v7.958c0 .189-.095.379-.189.474l-1.611 
+  1.61c-.095.095-.189.284-.189.474v.947c0 .379.284.663.663.663h10.326c.379
+  0 .663-.284.663-.663v-.947c0-.19-.094-.379-.189-.474l-1.516-1.516c-.095-.094-.189-.284-.189-.473V3m-3.885
+  18v-5.874M6.124 3h11.652"/>
+  
+  <path 
+  id="Disabled"
+  visibility="hidden"
+  fill="none"
+  stroke="#757575" 
+  stroke-width="1.5" 
+  d="M.958 9h22"/>
 </svg>

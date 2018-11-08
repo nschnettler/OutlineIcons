@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#757575;stroke-width:0.8;stroke-miterlimit:10;}
-</style>
-<path class="st0" d="M7.5,12H5.3c-0.9,0-1.9-0.9-1.9-1.9V5.3h4.1 M7.5,2.5h9v1.9v7.8c0,2.5-2,4.5-4.5,4.5s-4.5-2-4.5-4.5V5.3V2.5z
-	 M15.8,21.5H8.2v-0.9c0-1.8,1.9-2,3.8-2c2.2,0,3.7,0.4,3.8,2V21.5z M12,16.7v1.9 M16.5,5.3h4.1v4.8c0,1-1,1.9-1.9,1.9h-2.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path 
+  fill="none" 
+  stroke="#757575"
+  stroke-width="1.5" 
+  d="M16 12.5c0 2.208-1.792 4-4 4s-4-1.792-4-4V2.75h8v9.75M7.988 
+  4.754L3.737 4.75c.001 0 .001 3.854.001 6.037-.001.388.154.76.428
+  1.034.274.275.647.429 1.035.429h2.787M16.012
+  4.754l4.25-.004v6.037c.001.388-.154.76-.428
+  1.034-.274.275-.647.429-1.035.429h-2.787M15.25 
+  20.748c0 .581-6.5.581-6.5 0 0-.582 1.456-1.054
+  3.25-1.054s3.25.472 3.25 1.054zM12 
+  19.694V16.5"/>
 </svg>

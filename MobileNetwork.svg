@@ -1,13 +1,95 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#757575;stroke-width:0.8;stroke-miterlimit:10;}
-</style>
-<path id="_x30__x2C_4" class="st0" d="M3.7,21h17c0.2,0,0.3-0.1,0.3-0.3v-17c0-0.3-0.3-0.4-0.5-0.2l-17,17C3.3,20.7,3.5,21,3.7,21z"
-	/>
-<path id="_x33_" class="st0" d="M3.7,21H17V7L3.5,20.5C3.3,20.7,3.5,21,3.7,21z"/>
-<path id="_x32_" class="st0" d="M3.7,21H13V11l-9.5,9.5C3.3,20.7,3.5,21,3.7,21z"/>
-<path id="_x31_" class="st0" d="M3.7,21H9v-6l-5.5,5.5C3.3,20.7,3.5,21,3.7,21z"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.41421" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path 
+  id ="Base"
+  fill="none"
+  stroke="#757575"
+  stroke-width="1.5" 
+  d="M3.678 19.53c-.138.137-.179.343-.105.523.075.18.25.297.444.297h14.995c.385 
+  0 .755-.154 1.028-.427.272-.272.424-.642.423-1.028-.004-3.41-.018-11.871-.023-14.966
+  0-.194-.117-.369-.296-.443-.18-.074-.387-.032-.524.104C16.674 6.536 6.627 16.581 
+  3.678 19.53z"/>
+  
+  <path 
+  id="0"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575" 
+  stroke-width="1.5"
+  d="M8 20.35v-5.142"/>
+  
+  <path 
+  id="1"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575"
+  stroke-width="1.5"
+  d="M11 20.35v-8.141"/>
+  
+  <path 
+  id="2"
+  fill="none"
+  stroke="#757575" 
+  stroke-width="1.5"
+  d="M14 20.35V9.209"/>
+  
+  <path 
+  id="3"
+  visibility="hidden"
+  fill="none"
+  stroke="#757575" 
+  stroke-width="1.5"
+  d="M17 20.35V6.21"/>
+  
+  <path 
+  id="BaseOpen"
+  visibility="hidden"
+  fill="none"
+  stroke="#757575" 
+  stroke-width="1.5" 
+  d="M20.463 8.895c-.004-3.41-.018-1.871-.023-4.966 
+  0-.194-.117-.369-.296-.443-.18-.074-.387-.032-.524.104C16.674 6.536 6.627 
+  16.581 3.678 19.53c-.138.137-.179.343-.105.523.075.18.25.297.444.297h12.995"/>
+  
+  <path 
+  id="Warning"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575"
+  stroke-width="1.5"
+  d="M20.487 
+  20.394l-.001-.678v.677zm.027-7.987v4.975"/>
+  
+  <path 
+  id="NetworkChangeBase"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575" 
+  stroke-width="1.5"
+  d="M20.463 17.895c-.004-3.41-.018-10.871-.023-13.966 
+  0-.194-.117-.369-.296-.443-.18-.074-.387-.032-.524.104C16.674 6.536 6.627 
+  16.581 3.678 19.53c-.138.137-.179.343-.105.523.075.18.25.297.444.297h2.995"/>
+  
+  <path 
+  id="Dot1"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575" 
+  stroke-width="1.5"
+  d="M9.506 20.35h1.488"/>
+  
+  <path 
+  id="Dot2"
+  visibility="hidden"
+  fill="none"
+  stroke="#757575" 
+  stroke-width="1.5" 
+  d="M13.506 20.35h1.488"/>
+  
+  <path 
+  id="Dot3"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575" 
+  stroke-width="1.5" 
+  d="M17.506 20.35h1.488"/>
 </svg>

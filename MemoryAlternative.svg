@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#757575;stroke-width:0.8;stroke-miterlimit:10;}
-</style>
-<path class="st0" d="M6,5.5v13C6,19.3,6.7,20,7.5,20h9c0.8,0,1.5-0.7,1.5-1.5v-13C18,4.7,17.3,4,16.5,4h-9C6.7,4,6,4.7,6,5.5z M3,6
-	h3 M3,10h3 M6,14H3 M3,18h3 M18,6h3 M18,10h3 M18,14h3 M18,18h3 M12,17.5v-3 M9,14.5v3 M15,14.5v3"/>
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path 
+  fill="none" 
+  stroke="#757575"
+  stroke-width="1.5"
+  d="M6 5.5v13c0 .8.7 1.5 1.5 1.5h9c.8 0 1.5-.7 
+  1.5-1.5v-13c0-.8-.7-1.5-1.5-1.5h-9C6.7 4 6 4.7 
+  6 5.5zM3 6h3m-3 4h3m0 4H3m0 4h3M18 6h3m-3 
+  4h3m-3 4h3m-3 4h3m-9-.5v-3m-3 
+  0v3m6-3v3"/>
 </svg>

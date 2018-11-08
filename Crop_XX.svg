@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/" fill-rule="evenodd" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path 
+  id="1-1"
+  fill="none"
+  stroke="#757575"
+  stroke-width="1.5" 
+  d="M5.4 3.4h13.2c1.1 0 2 .9 2 2v13.2c0 1.1-.9 2-2 2H5.4c-1.1
+  0-2-.9-2-2V5.4c0-1.1.9-2 2-2z"/>
+  
+  <path 
+  id="4-5"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575" 
+  stroke-width="1.5" 
+  d="M5.1 18.6V5.4c0-1.1.9-2 2-2h9.8c1.1 0 2 .9 2 2v13.2c0 1.1-.9
+  2-2 2H7.1c-1.1 0-2-.9-2-2z"/>
+  
+  <path 
+  id="5-4"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575"
+  stroke-width="1.5"
+  d="M5.4 5.1h13.2c1.1 0 2 .9 2 2v9.8c0 1.1-.9 2-2 2H5.4c-1.1
+  0-2-.9-2-2V7.1c0-1.1.9-2 2-2z"/>
+  
+  <path 
+  id="9-16"
+  visibility="hidden"
+  fill="none"
+  stroke="#757575"
+  stroke-width="1.5"
+  d="M16.8 5.4v13.2c0 1.1-.9 2-2 2H9.2c-1.1 0-2-.9-2-2V5.4c0-1.1.9-2 
+  2-2h5.7c1 0 1.9.9 1.9 2z"/>
+  
+  <path
+  id="16-9"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575" 
+  stroke-width="1.5"
+  d="M5.4 7.2h13.2c1.1 0 2 .9 2 2v5.7c0 1.1-.9 2-2 2H5.4c-1.1
+  0-2-.9-2-2V9.2c0-1.1.9-2 2-2z"/>
+</svg>

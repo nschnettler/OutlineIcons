@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path 
+  id="PocketCasts"
+  fill="none" 
+  stroke="#757575"
+  stroke-width="1.5"
+  d="M12 21.5c-5.247 0-9.5-4.253-9.5-9.5S6.753 2.5 12 2.5s9.5 4.253 
+  9.5 9.5 M12 17c-2.762 0-5-2.238-5-5s2.238-5 5-5 5 2.238 5 5"/>
+  
+  <path 
+  id="Download"
+  visibility="hidden"
+  fill="none"
+  stroke="#757575" 
+  stroke-miterlimit="1.5"
+  stroke-width="1.5" 
+  d="M16.994 19.035L17 12M15.034 17l1.96 
+  2.035 1.698-1.726.304-.309"/>
+</svg>
