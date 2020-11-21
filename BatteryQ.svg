@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 12 20">
+  <path id="Perimeter" fill="none" stroke="#757575" stroke-width="1.5"
+  d="M4.25 2.75h3.5M4.58 1.721h2.822M4.25.75v2h-2.9c-.331 
+  0-.6.269-.6.6v15.3c0 .331.269.6.6.6h9.3c.331 0
+  .6-.269.6-.6V3.35c0-.159-.063-.312-.176-.424-.112-.113-.265-.176-.424-.176h-2.9v-2h-3.5z"/>
+  
+  <path id="Charging" fill="none" stroke="#757575" stroke-width="1.5" 
+  d="M6.266 7.453L4.25 11.25h1.5v3.25l2-3.75h-1.5l.016-3.297z"/>
+ 
+ <path id="Plus" fill="none" stroke="#757575" stroke-width="1.5" 
+  d="M6 9v4m-2-2h4"/>
+ 
+ <path id="Add" fill="#757575" 
+  d="M2 4h8v14H2z"/>
+  
+  <path id="FillMask" 
+  d="M1.5 3.5h9v15h-9z"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.41421" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path 
+  id="0"
+  fill="none" 
+  stroke="#757575" 
+  stroke-width="1.5" 
+  d="M8 20.35v-5.142" />
+  
+  <path 
+  id="1"
+  fill="none" 
+  stroke="#757575" 
+  stroke-width="1.5" 
+  d="M11 20.35v-8.141"/>
+  
+  <path
+  id="2"
+  fill="none" 
+  stroke="#757575" 
+  stroke-linecap="round" 
+  stroke-width="1.5"
+  d="M14 19.925V9.452"/>
+  
+  <path 
+  id="3"
+  fill="none" 
+  stroke="#757575"
+  stroke-linecap="round"
+  stroke-width="1.5" 
+  d="M17 10.35V6.7"/>
+  
+  <path 
+  fill="none" 
+  stroke="#757575"
+  stroke-linecap="round"
+  stroke-width="1.5"
+  d="M20.463 9.895c-.004-3.41-.018-2.871-.023-5.966 
+  0-.194-.117-.369-.296-.443-.18-.074-.387-.032-.524.104C16.674
+  6.536 6.627 16.581 3.678 
+  19.53c-.138.137-.179.343-.105.523.075.18.25.297.444.297h9.967"/>
+  
+  <path 
+  fill="none" 
+  stroke="#757575"
+  stroke-linecap="round"
+  stroke-miterlimit="1.5"
+  stroke-width="1.5" 
+  d="M17 20.294v-6.866h2M19 13.428c1.007 0 1.825.818 1.825
+  1.825 0 1.007-.818 1.825-1.825 1.825M20.698 
+  20.3l-1.847-3.227M17 17.073h2"/>
+</svg>

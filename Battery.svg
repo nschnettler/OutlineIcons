@@ -17,6 +17,22 @@
   stroke-width="1.5" 
   d="M11.969 11v4-4zm-2 2h4-4z"/>
   
+   <path 
+  id="Good"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575" 
+  stroke-width="1.5" 
+  d="M9.5,13.402l1.669,1.697l3.331,-4.198"/>
+  
+  <path 
+  id="Maybe"
+  visibility="hidden"
+  fill="none" 
+  stroke="#757575" 
+  stroke-width="1.5" 
+  d="M12,15.75l0,0.5M12,9.75l0,2.5"/>
+  
   <path 
   id="Charging"
   fill="none" 

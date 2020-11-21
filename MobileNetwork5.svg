@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path id="Base" fill="none" stroke="#757575" stroke-width="1.5" 
+  d="M21.25 2.75v17.3c0 .318-.126.623-.351.849-.226.225-.531.351-.849.351H2.75l18.5-18.5z"/>
+  
+  <path id="One" fill="none" stroke="#757575" stroke-width="1.5" 
+  d="M7.25 16.75v4.5h-4.5l4.5-4.5z"/>
+  
+  <path id="Two" fill="none" stroke="#757575" stroke-width="1.5" 
+  d="M10.75 13.25v8h-8l8-8z"/>
+  
+  <path id="Three" fill="none" stroke="#757575" stroke-width="1.5" 
+  d="M14.25 9.75v11.5H2.75l11.5-11.5z"/>
+  
+  <path id="Four" fill="none" stroke="#757575" stroke-width="1.5" 
+  d="M17.75 6.25v15h-15l15-15z"/>
+</svg>

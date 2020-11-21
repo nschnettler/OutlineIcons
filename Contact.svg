@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" clip-rule="evenodd" viewBox="0 0 24 24">
+  <path fill="none" stroke="#757575" stroke-width="2" 
+  d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 
+  2-.9 2-2V6c0-1.1-.9-2-2-2z
+  M10.098 8.788c1.05-1.05 2.754-1.05 3.804 0 1.049 1.049 
+  1.049 2.754 0 3.803-1.05 1.05-2.754 1.05-3.804 
+  0-1.049-1.049-1.049-2.754 0-3.803zM5.995 19.5s.001.192.001-.556c0-1.485 
+  2.69-2.69 6.004-2.69 3.314 0 6.004 1.205 6.004 2.69 
+  0 .736.001.556.001.556"/>
+</svg>
